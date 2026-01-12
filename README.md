@@ -1,4 +1,3 @@
-# purwadhika.capstone1.jundi
 # Hospital Patient Management System  
 **Purwadhika Data Science Bootcamp - Capstone 1**  
 
